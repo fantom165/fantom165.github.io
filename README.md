@@ -1,3 +1,3 @@
 # fantom165.github.io
 ## My Pacmen Factory Repo
-<a hfer="https://github.com/fantom165/PacMen-Exercise"> PacMen Exercise </a>
+<a href="https://github.com/fantom165/fantom165.github.io/PacMen-Exercise"> PacMen Exercise </a>
